@@ -1,6 +1,7 @@
 # 🎥 Live Video Anomaly Detection System
 
-🎬 [Watch the project demo on YouTube]([https://youtu.be/your-demo-link](https://youtu.be/ZFDPh5f-_38))
+🎬 [Watch the project demo on YouTube]
+[https://youtu.be/ZFDPh5f-_38]
 
 A real-time video analysis system powered by **Gemini 2.0 Flash** that detects anomalies in large-scale events and generates comprehensive incident reports.
 
